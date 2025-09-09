@@ -3,6 +3,23 @@ languageCode = 'en-us'
 title = 'Zoey Clarke'
 theme = 'gallery'
 
+[params]
+defaultTheme = "dark"
+  description = "Portfolio in Progress"
+  title = "zclrk"
+  [params.author]
+  email = "contact@zclrk.org"
+  name = "Zoey Clarke"
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
