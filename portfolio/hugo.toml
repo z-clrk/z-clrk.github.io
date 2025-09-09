@@ -1,8 +1,0 @@
-baseURL = 'https://zclrk.org/'
-languageCode = 'en-us'
-title = 'zclrk portfolio'
-theme = 'gallery'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
