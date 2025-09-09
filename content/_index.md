@@ -1,6 +1,6 @@
 ---
-title: Home
-description: portfolio in progress
+title: Portfolio in Progress!!!
+description: Soon™ :3
 menus:
   main:
     name: Home

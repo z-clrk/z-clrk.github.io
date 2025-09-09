@@ -1,10 +1,11 @@
 ---
 layout: prose
 rss_ignore: true
-title: About
-menu:
+title: Zoey Clarke
+menus:
   main:
+    name: About
     weight: 90
 ---
 
-Oh Good lord
+Nothin to snoop yet
