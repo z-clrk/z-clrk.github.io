@@ -1,5 +1,5 @@
 ---
-title: Zoey Clarke
+title: Home
 description: portfolio in progress
 menus:
   main:
